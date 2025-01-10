@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "橘猫集团知识库"
+  name: "橘猫集团 - CCO体系 - 知识管理中心"
   text: "橘猫集团产研知识库 Production and Research Knowledge Base"
   tagline: 让知识成为改变世界的工具！
   actions:
