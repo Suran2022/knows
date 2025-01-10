@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   // base: "/knows/",
-  title: "橘猫集团 - CCO体系 -企业信息化部",
-  description: "橘猫集团产研知识库，用于查询业务知识和培训使用。",
+  title: "橘猫集团知识库 - 2025",
+  description: "橘猫集团 - CCO体系 - 知识管理部",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
