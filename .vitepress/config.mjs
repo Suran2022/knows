@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   // base: "/knows/",
   title: "橘猫集团知识库 - 2025",
-  description: "橘猫集团 - CCO体系 - 知识管理部",
+  description: "橘猫集团 - CCO体系 - 知识管理中心",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
