@@ -44,16 +44,16 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '产研前端',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: ' HTML与CSS', link: '/markdown-examples' },
+          { text: 'JavaScript', link: '/api-examples' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Suran2022' }
     ],
 
     footer:{
