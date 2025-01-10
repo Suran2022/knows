@@ -47,7 +47,13 @@ export default defineConfig({
         text: '产研前端',
         items: [
           { text: ' HTML与CSS', link: '/markdown-examples' },
-          { text: 'JavaScript', link: '/JavaScript' }
+          { text: 'JavaScript', items: [
+            { text: '基础培训Day1', link: '/JavaScript 培训Day1'},
+            { text: '基础培训Day1', link: '/Java script培训day2'},
+            { text: '基础培训Day1', link: '/Javascript培训day3'},
+            { text: '基础培训Day1', link: '/js基础第四天'},
+            { text: '基础培训Day1', link: '/Java script培训day5'},
+          ] }
         ]
       }
     ],
