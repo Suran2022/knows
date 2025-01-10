@@ -47,7 +47,7 @@ export default defineConfig({
         text: '产研前端',
         items: [
           { text: ' HTML与CSS', link: '/markdown-examples' },
-          { text: 'JavaScript', link: '/api-examples' }
+          { text: 'JavaScript', link: '/JavaScript' }
         ]
       }
     ],
