@@ -16,10 +16,10 @@ hero:
 
 features:
   - title: 橘猫科技
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: 橘猫科技负责集团AI算法与模型的研发与训练，助力更多创作者的艺术发挥！
   - title: 橘猫安全
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: 安全部负责集团信息以及产品的用户数据安全，防止信息外泄，同时防止外部黑客恶意攻击盗取信息。
   - title: 橘猫云技术
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: 云产品研发中心，让更多开发者只专注于代码开发而不花时间搭建服务器已经做安全防护。
 ---
 
